@@ -6,7 +6,7 @@
 
 <p align="left">
   <em>
-    I am a student who is passionate about Computer Science and codeing.
+    I am a student who is passionate about Computer Science and coding.
   </em> 
   <br>
 
