@@ -42,4 +42,4 @@
   
 Recents Projects
 
-https://cheris-quessou.github.io/Resume-Website/
+  <a href="https://cheris-quessou.github.io/Resume-Website/"> Resume Website </a>
