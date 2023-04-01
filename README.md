@@ -43,3 +43,4 @@
 Recents Projects
 
   <a href="https://cheris-quessou.github.io/Resume-Website/"> Resume Website </a>
+  <a href="https://cheris-quessou.github.io/BlurryLoading/"> Blurry Loading </a>
