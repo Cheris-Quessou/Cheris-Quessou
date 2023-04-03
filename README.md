@@ -44,5 +44,5 @@ Recents Projects
 <ul>
   <li><a href="https://cheris-quessou.github.io/Resume-Website/"> Resume Website </a></li>
   <li><a href="https://cheris-quessou.github.io/BlurryLoading/"> Blurry Loading </a></li>
-  <li><a href="https://cheris-quessou.github.io/VericalSlider/"> Vertical Slider </a></li>
+  <li><a href="https://cheris-quessou.github.io/VerticalSlider/"> Vertical Slider </a></li>
 </ul>
