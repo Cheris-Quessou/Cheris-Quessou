@@ -41,8 +41,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
 Recents Projects
+    <br></br>
   <em><a href="https://cheris-quessou.github.io/Resume-Website/"> Resume Website </a></em>
-  <br></br>
+    <br></br>
   <em><a href="https://cheris-quessou.github.io/BlurryLoading/"> Blurry Loading </a></em>
     <br></br>
   <em><a href="https://cheris-quessou.github.io/VerticalSlider/"> Vertical Slider </a></em>
