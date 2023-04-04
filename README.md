@@ -48,4 +48,6 @@ Recents Projects
     <br></br>
   <em><a href="https://cheris-quessou.github.io/VerticalSlider/"> Vertical Slider </a></em>
      <br></br>
+  <em><a href="https://cheris-quessou.github.io/RandomChoicePicker/"> Random Choice Picker </a></em>
+     <br></br>
 
