@@ -50,4 +50,7 @@ Recents Projects
      <br></br>
   <em><a href="https://cheris-quessou.github.io/RandomChoicePicker/"> Random Choice Picker </a></em>
      <br></br>
-
+  <em><a href="https://cheris-quessou.github.io/LiveUserFilter/"> Live User Filter </a></em>
+     <br></br>
+  <em><a href="https://cheris-quessou.github.io/ContentPlaceholder/"> Content Placeholder </a></em>
+     <br></br>
