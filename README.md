@@ -6,7 +6,7 @@
 
 <p align="left">
   <em>
-    I am a student who is passionate about Computer Science, Games Design and coding.
+    I am a student at university of staffordshire london who is passionate about Games Design, Computer Science and coding.
   </em> 
   <br>
 
